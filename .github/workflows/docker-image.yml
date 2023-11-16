@@ -6,8 +6,8 @@ on:
       - v*
 
 env:
-  APP_NAME: squid
-  DOCKERHUB_REPO: zhonger/squid
+  APP_NAME: s390x-npm
+  DOCKERHUB_REPO: s390x/nginx
 
 jobs:
   docker:
