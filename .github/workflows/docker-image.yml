@@ -7,7 +7,7 @@ on:
 
 env:
   APP_NAME: s390x-npm
-  DOCKERHUB_REPO: s390x/nginx
+  DOCKERHUB_REPO: s390x/nginx:stable-bullseye-perl
 
 jobs:
   docker:
