@@ -1,4 +1,4 @@
-fork回来，学习Action用~
+fork回来，学习Docker和Action用~
 <p align="center">
 	<img src="https://nginxproxymanager.com/github.png">
 	<br><br>
